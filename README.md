@@ -8,8 +8,7 @@ Some questions felt like I was solving a Rubik's Cube with blindfolds.
 I think I aced few FRQs in this Exam, but some felt that I was on the edge of falling down.
 
 
-
-The moment I walked out of the AP Computer Science A exam, I felt like I had just completed a marathon—one fueled by adrenaline, rapid problem-solving, and a few frantic last-minute cypher fixes. This exam wasn’t just about coding; it was a test of mental endurance and strategic thinking under pressure.
+There was couple of things I would need to point out:
 > Exam Breakdown & Challenges
   Cypher Complexity: Some FRQs felt like solving a Rubik’s Cube blindfolded—intricate, unpredictable, and demanding precise logic.
 
