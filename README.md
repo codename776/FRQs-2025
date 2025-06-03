@@ -7,7 +7,7 @@ Some questions felt like I was solving a Rubik's Cube with blindfolds.
 
 I think I aced few FRQs in this Exam, but some felt that I was on the edge of falling down.
 
-My prediction? I guess, overall, I am anticipating a strong score. Whether my prediction matches the reality to be seen, but one thing stays certain - I gave it my all, and that's what truly counts.
+
 
 The moment I walked out of the AP Computer Science A exam, I felt like I had just completed a marathon—one fueled by adrenaline, rapid problem-solving, and a few frantic last-minute cypher fixes. This exam wasn’t just about coding; it was a test of mental endurance and strategic thinking under pressure.
 > Exam Breakdown & Challenges
