@@ -2,4 +2,4 @@
 
 The ***SIGNED TEXT*** class is designed to generate a signature using person's first and last name. The idea is that if a person has a first and last name, their signature must be the first letter of the first and the last letter of their last name.  (If they don't have the first name, the code will print signature with just a last name).
 
-The class includes a method, ''''java getSignature()'
+The class includes a method, '''' getSignature()'
